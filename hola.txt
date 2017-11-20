@@ -1,6 +1,10 @@
 hola prueba 1
 
 
+<<<<<<< HEAD
 
 
 pasdasda da da 
+=======
+arreglo 2
+>>>>>>> branch-2
